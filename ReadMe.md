@@ -28,7 +28,7 @@ Files
                                compiler and a driver for running the tests
     tests/test-all.rkt      -- is a simple wrapper for importing the compiler and
                                performing a testing run of all of the tests.
-    doc/                    -- contains a user guide and developer guide along with a
+    scribblings/            -- contains a user guide and developer guide along with a
                                makefile for generating their pdfs with pdflatex
 
 For more information on using the pre-compile binaries, see the README.md file
